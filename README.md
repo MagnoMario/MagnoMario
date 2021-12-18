@@ -4,18 +4,20 @@
 
 - 👔 I’m currently working on .NET/CORE, C# e NODEJS.
 - ❤️ I’m currently learning NODEJS
-
-
-
+  
+##
+  
 #### 📊 Métricas do Github:
 
-<div align="center">
+<div>
   <a href="https://github.com/magnomario">
-  <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=magnomario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnomario&layout=compact&langs_count=7&theme=dracula"/>-->
+  <img style="max-width: 50%" height="160em" src="https://github-readme-stats.vercel.app/api?username=magnomario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img style="max-width: 50%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnomario&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+    
+##
   
-<div style="display: inline_block"><br>
+ <div style="display: inline_block"><br>
   <img align="center" alt="magnomario-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
   <img align="center" alt="magnomario-Core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" alt="magnomario-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -30,7 +32,7 @@
   
 ##
   
-  ####
+  <div style="display: inline_block"></div>
   
   #### 📕 Confire meus últimos artigos:
   - [Impacto do PIX nas adquirentes](https://www.linkedin.com/pulse/impacto-do-pix-nas-adquirentes-magno-mario/?trackingId=Sp7AgQEtQwWYwUyyF5vnHA%3D%3D)
